@@ -1,7 +1,7 @@
 Zamicol's Genetic Data
 ===============
 
-Here it is! Raw genetic data from 23andMe and other sources.
+Here it is! Genetic data from 23andMe and other sources.
 
 I am releasing the data in hopes that it helps other people.
 
@@ -16,7 +16,7 @@ License
 =======
 
 To the extent possible under law, Zamicol has waived all copyright and 
-related or neighboring rights to Zamicol's Genetic Data from 
+related or neighboring rights to Zamicol's genetic data from 
 23andme.com and other sources. This work is published from: United States.
 
 I am releasing the genetic data held in this repository under a 
