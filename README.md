@@ -7,10 +7,11 @@ I am releasing the data in hopes that it helps other people.
 
 A little about Zamicol:
 
-- Celiac disease
-- Once had Wolff-Parkinson-White (WPW) syndrome
-- Colorblind (Protanomaly)
-- [Can't do ibuprofen!](https://www.reddit.com/r/AskDocs/comments/3eifis) 
+- Celiac disease.
+- Once had Wolff-Parkinson-White (WPW) syndrome now fixed thanks to a cardiac ablation. 
+- Colorblind (Protanomaly).
+- Vasovagal syncope (I quickly pass out when giving blood).
+- [Can't do ibuprofen!](https://www.reddit.com/r/AskDocs/comments/3eifis).
 
 
 License
