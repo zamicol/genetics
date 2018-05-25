@@ -1,5 +1,6 @@
 Zamicol's Genetic Data
 ===============
+See also the health and medical repo.  https://github.com/zamicol/medical
 
 Here it is! Genetic data from 23andMe and other sources.
 
